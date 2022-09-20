@@ -1,11 +1,32 @@
 ##  Final Project
 
+### Project Outcomes
+- WO17: Turn complex data into easily consumable visual insights in Tableau
+- WO18: Create interactive and impactful stakeholder facing dashboards in Tableau that are best suited to communicate insights
+
+### Duration: 
+Approximately 8-10 hours, plus a 5-minute presentation.
+
+### Project Description:
+In this project, we will combine and practice implementing what we have learned throughout this course, including:
+- Turning data into easily consumable visual insights, using Tableau, and
+- Creating impactful dashboards that help stakeholders make decisions, based on a business questions, and
+- Communicating insights with the correct visualizations.
+
+> #### Instruction
+> The instructions for this project can be found in the Assignment area. 
+> Please also complete the prompts in the README file available in [this repo](https://github.com/lighthouse-labs/Final-Project-Tableau).
+
+
+### Overview
 In this Final project, you have 2 options; you can choose the option of working on the pre-prepared questions that are a part of the Standard Final project (Option 1), or you can work on one of the provided five datasets and formulate your own data question and Dashboards in Tableau (Option 2). 
 
 It's up to you! 
 
 > #### Note  
 > If you choose to work on your own project (Option 2) and you feel lost after working on it for an hour or so (you can’t decide on a question based on the dataset, or are finding it difficult to get inspired), we recommend you to switch to the available Standard Final Project (Option 1) to finish the project in time for the Monday presentation during your regular lecture time.
+
+
 
 ### Option 1: Standard Final Project
 You will be working with data from the Canadian Open Data portal. Specifically, you will work with the following datasets (the files are linked here in a [Google Drive folder](https://drive.google.com/drive/folders/1B2pYgUBLMVEq3rkbcMenu4An_JboESJd?usp=sharing) for download access). The files in the folder are:
@@ -159,4 +180,31 @@ The Global Burden of Disease is a major global study on the causes of death and 
 - Step 7 - From step 5, try to detect meaningful keypoints. This is the starting point to think about your dashboard. 
 - Step 8 - Now that you are familiar with your dataset and your columns, in this step, come up with different questions which you will be answering and presenting at the end of this project.
 - Step 9 - Create the dashboard to answer your questions that you came up with in step 8 and try to revise your questions along the way.
-- Step 10- Get ready to present your dashboard.
+- Step 10 - Get ready to present your dashboard.
+
+### Submission Guidelines:
+For this project, you will need to submit a link to your github repo that contains all of the files listed. The files submitted will be evaluated.
+Your repo must include the following:
+- Include one PDF file with your presentation. It should be named *TableauPresentationFile_OptionNumber__Dataset_LastNameFirstName.PDF*. 
+    - Make sure you list if you either addressed Option 1 or 2 in the title in the *OptionNumber* part of the PDF name. 
+    - Make sure to name the dataset you selected for the *Dataset* part of the title of the file if you are completing Option 2.
+- The presentation should include the visualizations and key takeaways from your investigation (follow the Presentation Guidelines section on this page for further information).
+- One Worksheet (in .twb format) with your dashboards/visualizations you created.
+
+### Presentation Guidelines:
+- Spend 1 min on project flow structure. What were the steps in your project?
+- Spend 1-2 minutes showing your results. Make sure to highlight:
+    - For Option 1, share the visualizations that you produced in response to the questions.
+    - For Option 2, please share what your main data question was, what you wanted to answer, the dataset you selected, and then explain some of the features of the dataset as well. 
+- Explain the biggest challenges in 1 min.
+-   What would you do if you had a bit more time?
+- In your presentation, make sure to explain the rationale for the visualizations you selected for either Option 1 or 2. 
+            
+### Evaluation Guidelines:
+Here are some things you’ll need to keep in mind for this evaluated project:
+- Familiarize yourself with the Eval Rubric tab so you can read about the competencies you will be evaluated on for this particular project and review what the different levels of each competency require.
+- If you receive Unsatisfactory for any competency, your project will be rejected. If this happens, you will need to review the feedback provided, make changes to your project based on that, and resubmit your updated project within 48 hours in order to get it accepted and stay on track. This is not a bad thing! Having to resubmit is an opportunity for you to improve.
+- Please ensure that you submit your project immediately following your presentation to help ensure you get feedback as soon as possible.
+
+### Rubric:
+Provide link to the rubric that will be used to evaluate the submitted documents. 
